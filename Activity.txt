@@ -1,0 +1,7 @@
+1.List the Activity lifecycle methods that have been invoked on ActivityOne and on
+  ActivityTwo, since the application started, in the order that they occurred
+
+Activit1: onCreate, onStart, onResume, Activity Runing, button pressed, onPause, onStop
+  Activit2: onCreate,onStart,onResume,
+
+  c) navigates back to A2. A1: onRestart, onStart, onResume, A2 onPause,onStop
